@@ -1,0 +1,11 @@
+Designing a successful and useful BoosterPack involves considering many things. 
+
+The first thing you want to nail down is the end application.  How will the BoosterPack be used in other hardware projects?  Can I develop some code to showcase an interesting out of box experience?
+
+You also want to know how your BoosterPack will fit with other BoosterPacks.  Is it a display or something where it should not be stacked under another BoosterPack? Then you want to use female-only headers.  Is it a wireless module or power module that doesn't need to be visible to a user?  Then you definitely want to use stackable headers with male leads on top and female leads on bottom. These small details of figuring out how your BoosterPack can fit inside of a system, can really add or take away from its utility in a wide array of end applications. 
+
+Soldermask and silkscreen can be important details.  Having a well labeled and properly labeled PCB can help make it easier for end users to figure out your hardware. Red soldermask will make it blend in with the LaunchPad and look more professional, but other colors will make it stand out and pop. Graphics are cool and can be informative, but also take away from your board real estate. 
+
+Open source hardware and software is another consideration.  For hardware, Creative Commons licences are popular. Check out http://creativecommons.org/choose to learn more. For software, BSD and GNU GPL licences are popular, but there are many options available. Be conscious of the licences you publish with, as well as the licences of designs you incorporate. 
+
+Software is going to be the biggest ingredient to successful hardware. C code examples are very typical, but it is recommended to look at Energia (www.energia.nu) and developing a library that is compatible to give your hardware the maximum software leverage over the LaunchPad platform. 

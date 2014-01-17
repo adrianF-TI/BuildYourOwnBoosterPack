@@ -1,0 +1,6 @@
+Upverter is a completely online, browser based hardware design tool.  You can easily collaborate on and fork new designs. The links for the BoosterPack templates are below and the JSON exports are available in the BYOB Getting Started Pack. 
+
+20 Pin BoosterPack template: https://upverter.com/LaunchPad/1d937cdb391e5278/20-Pin-LaunchPad-BoosterPack-Template/
+
+40 Pin BoosterPack template: https://upverter.com/LaunchPad/ad437c6c91832fe4/40-Pin-LaunchPad-BoosterPack-Template/
+

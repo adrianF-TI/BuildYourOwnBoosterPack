@@ -1,0 +1,5 @@
+KiCad is an open source hardware design tool. It is free to use and getting very popular. You can learn more at http://www.kicad-pcb.org/
+
+BoosterPack Templates are available within KiCad at "KiCad\share\template\ti-boosterpack40" and "KiCad\share\template\ti-boosterpack20"
+
+They are also included in the BYOB Getting Started Pack. 

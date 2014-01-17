@@ -1,0 +1,1 @@
+List of PCB manufacturing resources popular with BoosterPack makers. This is a good place to get started, but not an exhaustive list. Manufacturing your hardware is solely your responsibility and proper research into the available manufacturing options and costs is always a good idea. This list only acts as a suggestion guide. 
